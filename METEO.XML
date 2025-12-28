@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE meteo SYSTEM "METEO.dtd">
+<meteo>
+    <mesure date="2025-01-24">
+        <ville nom="casablanca" temperature="24"/>
+        <ville nom="mohammedia" temperature="22"/>
+        <ville nom="marrakesh" temperature="30"/>
+        <ville nom="tanger" temperature="25"/>
+        <ville nom="el jadida" temperature="20"/>
+        <ville nom="dakhla" temperature="33"/>
+        <ville nom="oujda" temperature="28"/>
+        <ville nom="laayoune" temperature="35"/>
+    </mesure>
+    <mesure date="2025-01-25">
+        <ville nom="casablanca" temperature="20"/>
+        <ville nom="mohammedia" temperature="24"/>
+        <ville nom="marrakesh" temperature="27"/>
+        <ville nom="tanger" temperature="29"/>
+        <ville nom="el jadida" temperature="25"/>
+        <ville nom="dakhla" temperature="24"/>
+        <ville nom="oujda" temperature="20"/>
+        <ville nom="laayoune" temperature="30"/>
+    </mesure>
+</meteo>
